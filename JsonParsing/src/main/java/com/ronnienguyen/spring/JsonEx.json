@@ -1,0 +1,136 @@
+{
+  "medications":[{
+    "aceInhibitors":[{
+      "name":"lis",
+      "strength":"20 mg Tab",
+      "dose":"3 tab",
+      "route":"P5",
+      "sig":"daily",
+      "pillCount":"#90",
+      "refills":"Refill 1"
+    }],
+    "antianginal":[{
+      "name":"nitroglyin",
+      "strength":"0.8 mg Sublingual Tab",
+      "dose":"5 tab",
+      "route":"LLLL",
+      "sig":"q15 PRN",
+      "pillCount":"#30",
+      "refills":"Refill 2"
+    }],
+    "anticoagulants":[{
+      "name":"sodium",
+      "strength":"55 mg Tab",
+      "dose":"6 tab",
+      "route":"P99",
+      "sig":"daily",
+      "pillCount":"#90",
+      "refills":"Refill 1"
+    }],
+    "betaBlocker":[{
+      "name":"tartrate",
+      "strength":"20 mg Tab",
+      "dose":"0 tab",
+      "route":"P2",
+      "sig":"dai",
+      "pillCount":"#44",
+      "refills":"RR"
+    }],
+    "diuretic":[{
+      "name":"furosee",
+      "strength":"90 mg Tab",
+      "dose":"6 tab",
+      "route":"P00",
+      "sig":"daily",
+      "pillCount":"#90",
+      "refills":"Refill 3"
+    }],
+    "mineral":[{
+      "name":"potassium ER",
+      "strength":"20 mEq Tab",
+      "dose":"3 tab",
+      "route":"P66",
+      "sig":"daily",
+      "pillCount":"#90",
+      "refills":"Refill 3"
+    }]
+  }
+  ],
+  "labs":[{
+    "name":"Arterial Blood MM",
+    "time":"Today",
+    "location":"Main Hospital Lab"
+  },
+    {
+      "name":"BMP LLL",
+      "time":"Today",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"NBL PPLO",
+      "time":"3 Weeks",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"BIIEK",
+      "time":"1 Year",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"Enzymes222",
+      "time":"Today",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"CBC123",
+      "time":"1 Year",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"Creatinine123",
+      "time":"1 Year",
+      "location":"Main Hospital Lab"
+    },
+    {
+      "name":"Electrolyte Panel",
+      "time":"1 Year",
+      "location":"Primary Care Clinic"
+    },
+    {
+      "name":"Glucose123",
+      "time":"1 Year",
+      "location":"Main Hospital Lab"
+    },
+    {
+      "name":"PTEEE/INR",
+      "time":"3 Weeks",
+      "location":"Care Clinic"
+    },
+    {
+      "name":"PTRET",
+      "time":"3 Weeks",
+      "location":"Coumadin Clinic"
+    },
+    {
+      "name":"TSRREH",
+      "time":"1 Year",
+      "location":"Care Clinic"
+    }
+  ],
+  "imaging":[{
+    "name":"Chest X-Ray",
+    "time":"Today",
+    "location":"Main Hospital"
+  },
+    {
+      "name":"Chest X-Ray",
+      "time":"Today",
+      "location":"Main Hospital"
+    },
+    {
+      "name":"Chest X-Ray",
+      "time":"Today",
+      "location":"Main Hospital"
+    }
+  ]
+}
